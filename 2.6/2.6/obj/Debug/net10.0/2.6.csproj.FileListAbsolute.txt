@@ -1,0 +1,14 @@
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\bin\Debug\net10.0\2.6.exe
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\bin\Debug\net10.0\2.6.deps.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\bin\Debug\net10.0\2.6.runtimeconfig.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\bin\Debug\net10.0\2.6.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\bin\Debug\net10.0\2.6.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.AssemblyInfoInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.AssemblyInfo.cs
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.csproj.CoreCompileInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\refint\2.6.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\2.6.genruntimeconfig.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.6\2.6\obj\Debug\net10.0\ref\2.6.dll
