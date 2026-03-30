@@ -1,0 +1,14 @@
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\bin\Debug\net10.0\2.10.exe
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\bin\Debug\net10.0\2.10.deps.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\bin\Debug\net10.0\2.10.runtimeconfig.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\bin\Debug\net10.0\2.10.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\bin\Debug\net10.0\2.10.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.AssemblyInfoInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.AssemblyInfo.cs
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.csproj.CoreCompileInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\refint\2.10.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\2.10.genruntimeconfig.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\2.10\2.10\obj\Debug\net10.0\ref\2.10.dll
