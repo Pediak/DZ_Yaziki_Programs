@@ -1,0 +1,14 @@
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\bin\Debug\net10.0\Nasledovanie.exe
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\bin\Debug\net10.0\Nasledovanie.deps.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\bin\Debug\net10.0\Nasledovanie.runtimeconfig.json
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\bin\Debug\net10.0\Nasledovanie.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\bin\Debug\net10.0\Nasledovanie.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.AssemblyInfoInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.AssemblyInfo.cs
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.csproj.CoreCompileInputs.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\refint\Nasledovanie.dll
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.pdb
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\Nasledovanie.genruntimeconfig.cache
+C:\Users\яков\Desktop\дз инф\!ВУЗ\языки программирования\Nasledovanie\Nasledovanie\obj\Debug\net10.0\ref\Nasledovanie.dll
